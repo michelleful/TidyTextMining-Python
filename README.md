@@ -9,7 +9,7 @@ by Julia Silge and David Robinson, translated into Python.
 
 ## What's going on here?
 
-As I read through the book, I'm translating the snippets into Python 3.
+As I read through the book, I'm translating the code samples into Python 3.
 As far as I know, there's no Python equivalent to the `tidytext` R package.
 I'll be using `pandas` and `SpaCy` (possibly `gensim` also?) to accomplish
 the same effects. Let's see how far we get.
