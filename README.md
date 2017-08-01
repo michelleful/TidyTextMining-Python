@@ -12,7 +12,8 @@ by Julia Silge and David Robinson, translated into Python.
 As I read through the book, I'm translating the code samples into Python 3.
 As far as I know, there's no Python equivalent to the `tidytext` R package.
 I'll be using `pandas` and `SpaCy` (possibly `gensim` also?) to accomplish
-the same effects. Let's see how far we get.
+the same effects, and working within Jupyter notebooks.
+Let's see how far we get!
 
 **Status:** I'm at the very beginning, Chapter 1: The Tidy Text Format.
 
